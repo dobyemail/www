@@ -26,14 +26,14 @@ At DoByEmail, we offer an innovative solution allowing you to manage various onl
 #### 🌟 **Why Choose DoByEmail?**
 
 1. **Simplicity at Its Best**: All services can be requested and managed via email. Just send your request to the designated email address, and our smart AI assistant will handle the rest.
-2. **Cost-Effective**: Enjoy lifetime access to our services for just 50EUR. No hidden fees, no recurring charges.
+2. **Cost-Effective**: Enjoy longterm access to our services for just 50EUR per annum. No hidden fees, no recurring charges.
 3. **Wide Range of Services**: From website configurations to legal compliance documents like cookies, AGBs (General Terms and Conditions), and DSGVO (General Data Protection Regulation) tasks.
 4. **AI assistant-Driven Efficiency**: Our advanced AI assistant ensures timely and accurate execution of your requests while saving you invaluable time.
 5. **Safety & Security**: Payment via PayPal ensures a secure transaction process, and all communications are encrypted to protect your data.
 
 #### 📧 **How It Works**
 
-1. **Subscribe**: Simply subscribe to our service for a one-time payment of 50EUR.
+1. **Subscribe**: Simply subscribe to our service for a 50EUR/year.
 2. **Send an Email**: Write an email detailing your request to the designated email address. Our smart AI assistant will take over from there.
 3. **Complete the Task**: The AI assistant will guide you through a simple, step-by-step process to gather necessary information. Your task will be executed promptly.
 
@@ -67,7 +67,7 @@ At DoByEmail, we offer an innovative solution allowing you to manage various onl
 
 Join the growing number of satisfied customers who have simplified their online service management with **DoByEmail**.
 
-For just **50EUR**, enjoy the convenience of managing your online services via email for a lifetime.
+For just **50EUR**, enjoy the convenience of managing your online services via email for a year.
 
 🔗 **Visit Our Website**: [Do By Email](http://order.dobyemail.com)
 📧 **Email Us**: support@dobyemail.com
