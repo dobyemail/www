@@ -1,4 +1,4 @@
-# [Do By Email](http://www.dobyemail.com) - email to services tool
+# [Do By Email](http://www.dobyemail.com) - [email.to.services](http://email.to.services) tool
 
 + Simplify Your Online Services with Just an Email!**
 
