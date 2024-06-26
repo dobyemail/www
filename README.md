@@ -42,7 +42,7 @@ At DoByEmail, we offer an innovative solution allowing you to manage various onl
 - **Time-Saving**: No need to search for how-to guides or navigate through multiple webpages. Everything is managed via email.
 - **Ease of Use**: If you can write an email, you can use DoByEmail. It’s that simple.
 - **Versatility**: From legal compliance documents to server configurations, handle multiple tasks using a single platform.
-- **Lifetime Access**: One-time payment for lifetime benefits. Pay once and enjoy a wide array of services.
+- **Lifetime Access**: One-time payment 100EUR for lifetime benefits. Pay once and enjoy a wide array of services.
 
 #### 📌 **Example Use Cases**
 
