@@ -1,7 +1,6 @@
 # [Do By Email](http://www.dobyemail.com)
 
-
-**Introducing "DoByEmail" – Simplify Your Online Services with Just an Email!**
++ Simplify Your Online Services with Just an Email!**
 
 At DoByEmail, we offer an innovative solution allowing you to manage various online services effortlessly through a simple email. Whether you need to configure your website, manage privacy policies, or set up payment systems, DoByEmail has you covered. Our intuitive email-to-service tool empowers you to accomplish tasks without the hassle of navigating complex websites or applications.
 
