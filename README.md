@@ -1,4 +1,4 @@
-# www.dobyemail.com / doby.email
+# [doby.email](http://www.dobyemail.com)
 
 
 **Introducing "DoByEmail" – Simplify Your Online Services with Just an Email!**
