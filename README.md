@@ -4,7 +4,24 @@
 
 + Simplify Your Online Services with Just an Email!**
 
-At DoByEmail, we offer an innovative solution allowing you to manage various online services effortlessly through a simple email. Whether you need to configure your website, manage privacy policies, or set up payment systems, DoByEmail has you covered. Our intuitive email-to-service tool empowers you to accomplish tasks without the hassle of navigating complex websites or applications.
+At DoByEmail, we offer an innovative solution allowing you to manage various online services effortlessly through a simple email. Whether you need to configure your website, manage privacy policies, or set up payment systems, DoByEmail has you covered. Our intuitive email-to-service tool empowers you to accomplish tasks without the hassle of navigating complex websites or applications:
+
+1. **marketing@dobyemail.com** - For marketing inquiries and promotional activities.
+2. **info@dobyemail.com** - For general information and customer support.
+3. **privacy@dobyemail.com** - For privacy policy and GDPR compliance inquiries.
+4. **contact@dobyemail.com** - For general contact and business partnerships.
+5. **offer@dobyemail.com** - For special offers and discounts.
+6. **news@dobyemail.com** - For newsletter subscriptions and updates.
+7. **meet@dobyemail.com** - For scheduling meetings and consultations.
+8. **order@dobyemail.com** - For placing orders and service requests.
+9. **pay@dobyemail.com** - For payment-related queries and invoicing.
+10. **dev@dobyemail.com** - For development and technical support.
+11. **bug@dobyemail.com** - To report bugs and issues.
+12. **feature@dobyemail.com** - To request new features and enhancements.
+13. **tutor@dobyemail.com** - For tutorials and how-to guides.
+14. **config@dobyemail.com** - For configuration and setup services.
+15. **stats@dobyemail.com** - For statistics and analytics reports.
+
 
 #### 🌟 **Why Choose DoByEmail?**
 
