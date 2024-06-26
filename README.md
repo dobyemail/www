@@ -22,6 +22,7 @@ At DoByEmail, we revolutionize the way you handle internal support with our AI-p
 
 #### 📌 **Our AI-Powered Support Emails**
 
+- **spam@dobyemail.com**:Automated solutions for analyzing and checking SPAM messages.
 - **marketing@dobyemail.com**: Automated solutions for marketing inquiries and campaigns.
 - **info@dobyemail.com**: General information handled by AI for swift responses.
 - **privacy@dobyemail.com**: Ensure privacy and GDPR compliance effortlessly.
