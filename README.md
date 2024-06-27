@@ -38,6 +38,7 @@ At DoByEmail, we revolutionize the way you handle internal support with our AI-p
 - **tutor@dobyemail.com**: Access tutorials and how-to guides.
 - **config@dobyemail.com**: Get help with configuration and setup instantly.
 - **stats@dobyemail.com**: Request analytical reports and statistics.
+- **form@dobyemail.com**: Create form by list
 
 #### 📈 **Transform Your Support with AI**
 
