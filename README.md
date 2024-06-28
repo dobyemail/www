@@ -39,7 +39,8 @@ At DoByEmail, we revolutionize the way you handle internal support with our AI-p
 - **config@dobyemail.com**: Get help with configuration and setup instantly.
 - **stats@dobyemail.com**: Request analytical reports and statistics.
 - **form@dobyemail.com**: Create form by list
-- **doc@dobyemail.com**: Document generator: service termination document
+- **contract@dobyemail.com**: Contract document generator
+- **termination@dobyemail.com**: Contract termination generator
 
 #### 📈 **Transform Your Support with AI**
 
