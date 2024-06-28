@@ -9,7 +9,7 @@ At DoByEmail, we revolutionize the way you handle internal support with our AI-p
 #### 🌟 **Why Choose DoByEmail?**
 
 1. **Instant Support**: Get internal support in seconds by just sending an email. Our AI automation ensures rapid response and task execution.
-2. **Cost-Effective**: For just 50/year or 150EUR lifetime access, you get a robust support system without needing a full-fledged support team.
+2. **Cost-Effective**: For just 9/month 50/year or 200EUR lifetime access, you get a robust support system without needing a full-fledged support team.
 3. **Automated Excellence**: Each email is processed by sophisticated AI, ensuring accuracy and consistency.
 4. **Versatile Services**: From marketing and privacy policies to troubleshooting and configuration – our services cover it all.
 5. **Secure Transactions**: Payments are handled securely via PayPal, coupled with encrypted communications for data safety.
@@ -124,7 +124,7 @@ At DoByEmail, we offer an innovative solution allowing you to manage various onl
 
 Join the growing number of satisfied customers who have simplified their online service management with **DoByEmail**.
 
-For just **50EUR**, enjoy the convenience of managing your online services via email for a year.
+For just **9EUR**, enjoy the convenience of managing your online services via email for a year.
 
 🔗 **Visit Our Website**: [Do By Email](http://order.dobyemail.com)
 📧 **Email Us**: support@dobyemail.com
