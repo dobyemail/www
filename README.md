@@ -52,6 +52,7 @@ Our intuitive email-to-service tool empowers you to accomplish tasks without the
 - **form@dobyemail.com**: Create form by list
 - **contract@dobyemail.com**: Contract document generator
 - **termination@dobyemail.com**: Contract termination generator
+- **url@dobyemail.com**: Check url on websites
 
 
 ---
