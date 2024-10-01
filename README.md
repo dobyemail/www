@@ -113,9 +113,18 @@ Simplify your digital tasks - DoByEmail. Efficiently managing services, one emai
    + email testowy
    + git prywatny
    + AI token
+   + nextcloud
  
 + stworzenie docker compose
    + email
    + git
+   + ftp/webdav
+   + nextcloud
    + API AI
 + uruchomienie lokalnie
++ RAG dla email
+   + detekcja kasowanie spamu
+   + znajdywanie podobnych wiadomosci
+   + tworzenie raportow
+   + wyciaganie danych z podobnych wiadomosci i tworzenie list CSV z nimi wraz z parametrami + wciaganie na nextcloud
+   + zapisywanie zalacznikow na nextcloud
