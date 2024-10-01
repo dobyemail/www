@@ -102,3 +102,20 @@ With DoByEmail, you eliminate the need for a large support team. Our AI-driven e
 
 ---
 Simplify your digital tasks - DoByEmail. Efficiently managing services, one email at a time! 🚀
+
+
+## TODO
+
++ dodawanie komentarzy do dokumentu
++ zaznaczanie fragmentu dokumentu i generowanie zmian w oparciu o komentarz
++ zapisanie historii zmian w cloud jako prywatny github poprzez komendy gitops
++ konfiguracja:
+   + email testowy
+   + git prywatny
+   + AI token
+ 
++ stworzenie docker compose
+   + email
+   + git
+   + API AI
++ uruchomienie lokalnie
